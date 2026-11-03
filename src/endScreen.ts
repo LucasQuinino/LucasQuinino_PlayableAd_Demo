@@ -1,6 +1,6 @@
 
 const END_SCREEN_TITLE = "MISSION COMPLETE!";
-const END_SCREEN_MESSAGE = "You defeated every enemy and collected every gem.";
+const END_SCREEN_MESSAGE = "You defeated every enemy and collected every gem. Thank you for playing Viktoria!";
 const END_SCREEN_BUTTON_LABEL = "PLAY NOW";
 
 // Replace this with your destination URL.

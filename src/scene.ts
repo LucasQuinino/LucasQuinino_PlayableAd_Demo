@@ -5,7 +5,7 @@ import { createPlayerAnimation } from "./playerAnimation";
 //#region SCENE CONFIGURATION
 // Create the scene
 const scene = new THREE.Scene();
-scene.background = new THREE.Color(THREE.Color.NAMES.lightblue);//new THREE.Color(0x87ceeb);
+scene.background = new THREE.Color(0xD2E5FF);//new THREE.Color(0x87ceeb);
 
 // Create the camera
 const camera = new THREE.PerspectiveCamera(
